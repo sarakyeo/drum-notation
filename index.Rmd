@@ -19,5 +19,3 @@ description: "A resource for drum notation for Quinn Reesor's drum class."
 This is a repository of notation created by Quinn Reesor for his drum class in Salt Lake City, UT.
 
 Lorem ipsum...
-
-asdasdasdsad
