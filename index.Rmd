@@ -1,0 +1,21 @@
+--- 
+title: "Djembe and Dunun Notation"
+author: |
+        | Quinn Reesor
+        | Sara K. Yeo
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+citation_package: biblatex
+link-citations: yes
+github-repo: openscapes/series
+description: "A resource for drum notation for Quinn Reesor's drum class."
+---
+
+# Introduction {#intro}
+
+This is a repository of notation created by Quinn Reesor for his drum class in Salt Lake City, UT.
+
+Lorem ipsum...
