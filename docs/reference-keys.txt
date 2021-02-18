@@ -4,3 +4,8 @@ location
 ethnic-group
 purpose
 notation
+takosaba
+location-1
+ethnic-group-1
+purpose-1
+notation-1
