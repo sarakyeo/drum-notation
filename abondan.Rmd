@@ -1,0 +1,16 @@
+# Abondan
+
+## Location
+Ivory Coast
+
+## Ethnic group
+Baule
+
+## Purpose
+Abondan is played for the king. When he rides around the village the people who agree with his religion sprinkle dirt on their heads. Afterward, when he's seated the young boys and girls dance for him. The girls breasts are shiny, with oil. Abondan is a very old rhythm.
+
+## Notation
+This is the version taught by Mamady Keita, not the version commonly played on the Ivory Coast.
+```{r, echo=FALSE, fig.align='center', out.width="60%"}
+# knitr::include_graphics("images/abondan.png")
+```

@@ -1,0 +1,15 @@
+# Balakulandian
+
+## Location
+Guinea
+
+## Ethnic group
+Malinke
+
+## Purpose
+Balakulandian is played at children's festivals.
+
+## Notation
+```{r, echo=FALSE, fig.align='center', out.width="60%"}
+# knitr::include_graphics("images/balakulandian.png")
+```

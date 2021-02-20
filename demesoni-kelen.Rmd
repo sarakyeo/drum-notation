@@ -1,0 +1,15 @@
+# Demesoni Kelen
+
+## Location
+Hamanah
+
+## Ethnic group
+Malinke
+
+## Purpose
+Dunumba rhythm where singers and dancers taunt the drummers' about the strength of their sticks.
+
+## Notation
+```{r, echo=FALSE, fig.align='center', out.width="60%"}
+# knitr::include_graphics("images/demesoni-kelen.png")
+```
