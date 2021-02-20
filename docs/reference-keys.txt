@@ -14,3 +14,8 @@ location-2
 ethnic-group-2
 purpose-2
 notation-2
+tiriba
+location-3
+ethnic-group-3
+purpose-3
+notation-3
