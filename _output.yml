@@ -6,6 +6,8 @@ bookdown::gitbook:
   includes:
   config:
     toc:
+      collpse: section
+      scroll_highlight: yes
       before: |
         <li><a href="./">Djembe and Dunun Notation</a></li>
       after: |
