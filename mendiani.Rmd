@@ -13,3 +13,8 @@ Mendiani is an initiated dance for young girls between the ages of 8 and 12 who 
 ```{r, echo=FALSE, fig.align='center', out.width="80%"}
 knitr::include_graphics("images/mendiani.png")
 ```
+
+### Sangban variations
+```{r, echo=FALSE, fig.align='center', out.width="80%"}
+knitr::include_graphics("images/mendiani-sangban-var.png")
+```

@@ -39,3 +39,4 @@ location-7
 ethnic-group-7
 purpose-7
 notation-7
+sangban-variations
