@@ -24,6 +24,7 @@ location-4
 ethnic-group-4
 purpose-4
 notation-4
+sangban-variations
 soboninkun
 location-5
 ethnic-group-5
@@ -39,4 +40,3 @@ location-7
 ethnic-group-7
 purpose-7
 notation-7
-sangban-variations
